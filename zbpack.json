@@ -1,0 +1,6 @@
+{
+  "static": {
+    "dir": ".",
+    "spa": false
+  }
+}
